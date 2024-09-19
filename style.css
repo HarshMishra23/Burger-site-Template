@@ -18,6 +18,10 @@ header{
     display: flex;
     align-items: center;
     justify-content: space-around;
+    position: sticky;
+    top: 0;
+    background: rgb(231, 129, 12);
+    padding: 10px 0px;
 }
 
 .button-container ul{
@@ -30,11 +34,15 @@ header{
     align-items: center;
     gap: 10px;
     /* border: 1px solid red; */
+  
     margin-left: 80px;
 }
-.button-container ul li button{
+.button-container ul li a{
     padding: 7px 15px;
     border-radius: 20px;
+    border: 1px solid black;
+    text-decoration: none;
+    color: black;
 }
 
 .logo-left img{
@@ -56,7 +64,10 @@ header{
 
 .img-center img{
 height: 110vh;
- width: 98vw;
+ width: 98.7vw;
+ display: flex;
+ justify-content: center;
+ align-items: center;
 }
 
 #img-container span img{
@@ -77,5 +88,6 @@ height: 110vh;
 #img-container{
     display: flex;
     justify-content: center;
+    background-color: white;
 
 }
