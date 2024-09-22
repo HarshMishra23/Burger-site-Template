@@ -43,8 +43,8 @@ HTML, CSS
 https://magnificent-manatee-627701.netlify.app/
 
 ## Screenshots
-![alt](./image.png)
-
+![alt](./images/image.png)
+![alt](./images/image%20copy.png)
 
 ## 🤝 Contributing
 
