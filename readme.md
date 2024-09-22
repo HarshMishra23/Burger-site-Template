@@ -40,7 +40,7 @@ HTML, CSS
 
 
 ## Demo | Netlify
-https://bejewelled-salmiakki-ab3933.netlify.app/
+https://magnificent-manatee-627701.netlify.app/
 
 ## Screenshots
 ![alt](./image.png)
